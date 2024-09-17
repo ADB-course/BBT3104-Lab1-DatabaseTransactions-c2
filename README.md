@@ -8,6 +8,7 @@
 | **Semester Duration**                                                 | 19<sup>th</sup> August - 25<sup>th</sup> November 2024                                                                                                                       |
 
 ## Flowchart
+![Flowchart](https://github.com/ADB-course/BBT3104-Lab1-DatabaseTransactions-c2/blob/main/images/flowchart.jpg)
 
 ## Pseudocode
 
